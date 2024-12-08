@@ -7,10 +7,10 @@ graph = [[i for i in input()] for i in range(n)]
 
 pushedList = []
 
-x_y = [[1,0],[0,1],[-1,0], [0,-1]]
+x_y = [[1, 0], [0, 1], [-1, 0], [0, -1]]
 
 def bfs(startX, startY , visited):
-    snode = [startX,startY]
+    snode = [startX, startY]
     queue = deque([snode])
     visited[startX][startY] = True
     count = 1
