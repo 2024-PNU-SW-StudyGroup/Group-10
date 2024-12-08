@@ -37,10 +37,10 @@ PNU 스터디 그룹 10조는 알고리즘에 대한 깊이 있는 이해와 문
       <a href="https://github.com/amm0124" target="_blank">김건호</a>
     </td>
     <td align="center">
-      <a href="https://github.com/canyos" target="_blank">윤소현</a>
+      <a href="https://github.com/YunSoHyeon" target="_blank">윤소현</a>
     </td>
     <td align="center">
-      <a href="https://github.com/stopmin" target="_blank">유승훈</a>
+      <a href="https://github.com/hunsy9" target="_blank">유승훈</a>
     </td>
     <td align="center">
       <a href="https://github.com/jjt4515" target="_blank">정진택</a>
@@ -69,13 +69,13 @@ PNU 스터디 그룹 10조는 알고리즘에 대한 깊이 있는 이해와 문
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/amm0124" target="_blank">김문경</a>
+      <a href="https://github.com/mun-kyeong" target="_blank">김문경</a>
     </td>
     <td align="center">
-      <a href="https://github.com/canyos" target="_blank">최성민</a>
+      <a href="https://github.com/Csenongmin" target="_blank">최성민</a>
     </td>
     <td align="center">
-      <a href="https://github.com/stopmin" target="_blank">김민혁</a>
+      <a href="https://github.com/kyleidea1" target="_blank">김민혁</a>
     </td>
   </tr>
 </table>
